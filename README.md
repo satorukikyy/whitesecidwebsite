@@ -1,4 +1,4 @@
-# BitLion Cybersecurity Services Website
+# Whitesec ID Cybersecurity Services Website
 
 A comprehensive cybersecurity services website featuring detailed pages for six core service offerings.
 
@@ -39,12 +39,12 @@ A comprehensive cybersecurity services website featuring detailed pages for six 
 ## Features
 
 - Six detailed service pages:
-  - Threat Detection & Response
-  - Data Protection & Privacy
-  - Cloud Security
-  - Application Security Testing
-  - Security Compliance
-  - Security Training & Awareness
+  - ISO 27001
+  - Penetration Testing
+  - Record and Information Management
+  - Security Awareness Training
+  - UU PDP
+  - Partnership BI and OJK
 - Responsive design
 - Modern UI with Tailwind CSS
 - Interactive components
